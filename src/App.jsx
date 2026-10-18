@@ -15,7 +15,7 @@ function App() {
     setTasks((previous) => [
       ...previous,
       {
-        id: crypto.randomUUID(),
+        id: `${Date.now()}-${Math.random().toString(36).slice(2)}`,
         text: input.trim(),
         completed: false
       }
