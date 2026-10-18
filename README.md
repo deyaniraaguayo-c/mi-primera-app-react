@@ -128,3 +128,18 @@ Deyanira Aguayo
 
 Repositorio:
 https://github.com/deyaniraaguayo-c/mi-primera-app-react
+
+## Capturas de pantalla
+
+### Pantalla principal
+
+![Pantalla principal](docs/capturas/01-pantalla-principal.png)
+
+### Tareas agregadas y completadas
+
+![Tareas completadas](docs/capturas/02-tareas-completadas.png)
+
+### Modo oscuro
+
+![Modo oscuro](docs/capturas/03-modo-oscuro.png)
+
