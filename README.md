@@ -193,17 +193,3 @@ componentes independientes.
 
 Esta separación facilita la comprensión,
 mantenimiento y evolución del proyecto.
-
-## Limitaciones y mejoras futuras
-
-Actualmente las tareas se almacenan
-temporalmente en el estado de React, por
-lo que se pierden al recargar la página.
-
-Como mejora futura, se podría incorporar
-localStorage para conservar las actividades
-sin necesitar una base de datos.
-
-También se podría agregar un filtro para
-visualizar tareas pendientes y completadas.
-
